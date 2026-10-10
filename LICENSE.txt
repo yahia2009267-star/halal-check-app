@@ -1,0 +1,1 @@
+Starter template provided for personal modification. Third-party libraries and services are subject to their own licenses and terms.
